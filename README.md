@@ -42,3 +42,9 @@ Se desejar adicionar dados iniciais ao banco, execute o seguinte comando:
 ```bash
 npm run seed
 ```
+
+### 5. Executar o projeto
+
+```bash
+npm run dev
+```
