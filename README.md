@@ -1,20 +1,3 @@
-Este projeto foi desenvolvido no curso NLW Pocket disponibilizado pela [RocketSeat](https://app.rocketseat.com.br/).
-
-Para executar o projeto é recomendado utilizar o Node 20.17.0.
-É necessário possuir o docker ou então possuir um banco postgres.
-Crie um arquivo na pasta raiz com o nome .env contendo a variavel DATABASE_URL com a URL de conexão com o postgres.
-
-Execute os seguintes comandos:
-
-npm install
-(se possuir o docker) docker-compose up -d
-npx drizzle-kit migrate
-
-caso queira dados iniciais no banco
-execute:
-
-npm run seed
-
 # Projeto NLW Pocket
 
 Este projeto foi desenvolvido durante o curso **NLW Pocket** disponibilizado pela [RocketSeat](https://app.rocketseat.com.br/).
